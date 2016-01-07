@@ -21,3 +21,13 @@ github_username:  floridemai
 
 # Build settings
 markdown: kramdown
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://floridemai.github.io'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
